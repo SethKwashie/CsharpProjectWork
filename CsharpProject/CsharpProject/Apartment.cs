@@ -6,9 +6,13 @@ namespace CsharpProject
 {
     abstract class Apartment
     {
-        int FloorNumber;
-        int DoorNumber;
-        string ResidentName;
+       private int FloorNumber;
+       private int DoorNumber;
+       private string ResidentName;
+
+        public string ResidentName1 { get => ResidentName; set => ResidentName = value; }
+        public int FloorNumber1 { get => FloorNumber; set => FloorNumber = value; }
+        public int DoorNumber1 { get => DoorNumber; set => DoorNumber = value; }
 
         public abstract string Ring();
     }
