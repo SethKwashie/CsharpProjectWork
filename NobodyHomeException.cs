@@ -3,10 +3,8 @@ using System.Security.Cryptography.X509Certificates;
 
 public class NobodyHomeException : Exception
 {
-	public NobodyHomeException()
+	public NobodyHomeException(string message)
 	{
-		public NobodyHomeException(string message) {
-			base(message);
-		}
+		base(message);
 	}
 }
