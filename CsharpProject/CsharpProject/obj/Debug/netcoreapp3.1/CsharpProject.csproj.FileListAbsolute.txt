@@ -1,0 +1,13 @@
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\bin\Debug\netcoreapp3.1\CsharpProject.exe
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\bin\Debug\netcoreapp3.1\CsharpProject.deps.json
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\bin\Debug\netcoreapp3.1\CsharpProject.runtimeconfig.json
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\bin\Debug\netcoreapp3.1\CsharpProject.runtimeconfig.dev.json
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\bin\Debug\netcoreapp3.1\CsharpProject.dll
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\bin\Debug\netcoreapp3.1\CsharpProject.pdb
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.csprojAssemblyReference.cache
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.AssemblyInfoInputs.cache
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.AssemblyInfo.cs
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.csproj.CoreCompileInputs.cache
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.dll
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.pdb
+C:\Users\TURNTABL\Desktop\CsharpProjectWork\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.genruntimeconfig.cache
