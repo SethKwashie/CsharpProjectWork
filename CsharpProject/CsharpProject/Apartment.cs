@@ -6,8 +6,8 @@ namespace CsharpProject
 {
     abstract class Apartment
     {
-        string FloorNumber;
-        string DoorNumber;
+        int FloorNumber;
+        int DoorNumber;
         string ResidentName;
 
         public abstract string Ring();

@@ -4,7 +4,11 @@ using System.Text;
 
 namespace CsharpProject
 {
-    class GrandApartment
+    class GrandApartment : Apartment
     {
+        public override string Ring()
+        {
+            throw new NobodyHomeException("Nobody is home");
+        }
     }
 }
