@@ -6,8 +6,12 @@ namespace CsharpProject
 {
     class GrandApartment : Apartment
     {
-        public override string Ring()
+        public override string Ring(string greeting)
         {
+
+            if (greeting != "")
+                return greeting;
+            else
             throw new NobodyHomeException("Nobody is home");
         }
     }

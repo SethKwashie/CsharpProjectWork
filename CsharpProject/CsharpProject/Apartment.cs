@@ -14,6 +14,6 @@ namespace CsharpProject
         public int FloorNumber1 { get => FloorNumber; set => FloorNumber = value; }
         public int DoorNumber1 { get => DoorNumber; set => DoorNumber = value; }
 
-        public abstract string Ring();
+        public abstract string Ring(string message);
     }
 }
