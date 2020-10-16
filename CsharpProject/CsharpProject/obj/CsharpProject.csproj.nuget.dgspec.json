@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TURNTABL\\Source\\Repos\\CsharpProjectWork\\CsharpProject\\CsharpProject\\CsharpProject.csproj": {}
+    "C:\\Users\\TURNTABL\\Desktop\\CsharpProjectWork\\CsharpProject\\CsharpProject\\CsharpProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TURNTABL\\Source\\Repos\\CsharpProjectWork\\CsharpProject\\CsharpProject\\CsharpProject.csproj": {
+    "C:\\Users\\TURNTABL\\Desktop\\CsharpProjectWork\\CsharpProject\\CsharpProject\\CsharpProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TURNTABL\\Source\\Repos\\CsharpProjectWork\\CsharpProject\\CsharpProject\\CsharpProject.csproj",
+        "projectUniqueName": "C:\\Users\\TURNTABL\\Desktop\\CsharpProjectWork\\CsharpProject\\CsharpProject\\CsharpProject.csproj",
         "projectName": "CsharpProject",
-        "projectPath": "C:\\Users\\TURNTABL\\Source\\Repos\\CsharpProjectWork\\CsharpProject\\CsharpProject\\CsharpProject.csproj",
+        "projectPath": "C:\\Users\\TURNTABL\\Desktop\\CsharpProjectWork\\CsharpProject\\CsharpProject\\CsharpProject.csproj",
         "packagesPath": "C:\\Users\\TURNTABL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TURNTABL\\Source\\Repos\\CsharpProjectWork\\CsharpProject\\CsharpProject\\obj\\",
+        "outputPath": "C:\\Users\\TURNTABL\\Desktop\\CsharpProjectWork\\CsharpProject\\CsharpProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TURNTABL\\AppData\\Roaming\\NuGet\\NuGet.Config",
