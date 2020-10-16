@@ -2,11 +2,12 @@
 
 namespace CsharpProject
 {
-    class Program
+    class main
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
+
     }
 }
