@@ -6,7 +6,7 @@ namespace CsharpProject
 {
     class BasicApartment : Apartment
     {
-        public override string Ring(string greeting)
+        public override string RingBell(string greeting)
         {
 
             if (greeting != "")

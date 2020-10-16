@@ -1,9 +1,10 @@
-﻿using System;
+﻿using CsharpProject;
+using System;
 using System.Collections.Generic;
 
 namespace TurntablTowers
 {
-    public class TurntablTower
+    public class TurntablTower : Apartment
     {
         private List<Apartment> _apartments;
 
@@ -15,13 +16,18 @@ namespace TurntablTowers
         public void TakeRegister()
         {
             _apartments.ForEach(apartment =>
-                Console.WriteLine($"Door Number: {apartment.DoorNumber},  Resident's Name {apartment.ResidentName}"));
+                Console.WriteLine($"Door Number: {apartment.DoorNumber1},  Resident's Name {apartment.ResidentName1}"));
         }
 
         public void RingBell()
         {
             _apartments.ForEach(apartment =>
-                apartment.RingBell());
+                apartment.RingBell(""));
+        }
+
+        public override string RingBell(string message)
+        {
+            throw new NotImplementedException();
         }
     }
 }

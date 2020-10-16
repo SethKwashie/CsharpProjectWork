@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CsharpProject
 {
-    abstract class Apartment
+    public abstract class Apartment
     {
        private int FloorNumber;
        private int DoorNumber;
@@ -14,6 +14,6 @@ namespace CsharpProject
         public int FloorNumber1 { get => FloorNumber; set => FloorNumber = value; }
         public int DoorNumber1 { get => DoorNumber; set => DoorNumber = value; }
 
-        public abstract string Ring(string message);
+        public abstract string RingBell(string message);
     }
 }
